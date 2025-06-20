@@ -8,7 +8,7 @@ const jsObject = {
 
 //JavaScript Object Notation
 let jsonObject = {
-    name: "HP",
+    name: "nishanth",
     age: 25,
 };
 //methods(functions inside objects) are not supported
